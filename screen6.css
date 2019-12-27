@@ -1,0 +1,175 @@
+h1{
+    text-align: center;
+    color: white;
+    width: 100%;
+}
+.container{
+    margin: 0;
+}
+
+.jumbotron{
+    padding-top: 0;
+    background-image: url("./bg.jpg");
+    background-size: cover;
+}
+
+.navbar{
+    padding-bottom: 3vw;
+    width: 100%;
+}
+
+.arrow{
+    height: 2vw;
+    width: 2vw;
+    margin-left: 1vw;
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 3vw;
+    height: 3vw;
+    border-radius: 50%;
+    margin-right: 1vw;
+  }
+
+.name{
+    margin-bottom: 0;
+    color: white;
+}
+.container2{
+    margin-left: 6vw;
+    margin-right: 6vw;
+    width: 90vw;
+}
+
+.container3{
+    background-color: rgb(241, 240, 240);
+    margin-bottom: 3vw;
+}
+
+.bluetext{
+    color: rgb(70, 125, 228);
+}
+
+.route{
+    margin: 0;
+}
+
+.mainheading{
+    margin: 0;
+    font-weight: 500;
+}
+
+.subheading{
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.leftsubheading{
+    font-size: 1.75em;
+}
+
+.wheel{
+    padding-bottom: 10px;
+}
+
+.rightsubheading{
+    text-align: right;
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+.lhead{
+    margin: 0;
+}
+
+.col-sm{
+    padding: 0;
+}
+
+.pad{
+    padding: 20px;
+}
+
+.toppad{
+    padding-top: 2vw;
+}
+
+.answer{
+    font-size: 1.5em;
+    color: grey;
+}
+
+.dropdown{
+    width: 75%;
+    margin-top: 2vw;
+}
+
+.container4{
+    padding: 1vw 3vw 3vw 3vw;
+    text-align: center;
+}
+
+.container5{
+    text-align: center;
+    padding-bottom: 3vw;
+    color: rgb(70, 125, 228);
+    text-decoration: underline;
+}
+.jumbo {
+    background-image: url('./bg.jpg');
+    height: 32vh;
+    opacity: 1;    
+    border-radius: 0rem;
+}
+.round-img {
+    border-radius: 80%;
+    height: 5vh;
+    width: 3vw;
+}
+
+.btn{
+    margin:0vw 0.5vw ;
+    width: 10vw;
+}
+
+.mycolor{
+    background-color: rgb(70, 125, 228);
+    color: white;
+}
+
+.form-check{
+    font-size: larger;
+    margin: 2vw;
+}
+
+.container6{
+    padding: 0.25vw 0vw;
+}
+.h2-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 0rem; 
+    font-size: x-large;
+    font-weight: 150;
+    color: whitesmoke;
+}
+label .dropdown{
+    width: 30vw;
+}
+
+textarea{
+    width: 80vw !important;
+}
+
+.optiontext{
+    font-size: medium;
+}
+
+.radioquestion{
+    margin-top: 0px;
+}
